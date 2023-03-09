@@ -4,4 +4,4 @@ Hi everyone, this is our project about deep learning!
 
 Cardiff university Msc DSA
 
-Author: rustin
+group member: Zhang, Guan, Gong, Liang, Brain, Luo, Joe, Sam
